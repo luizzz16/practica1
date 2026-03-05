@@ -82,3 +82,16 @@ button {
     height: 20px;
     width: 60px;
 }
+
+#mensajeCita {
+    width: 500px;
+    height: 20px;
+}
+
+#formCitas {
+    background-color: rgb(158, 158, 148);
+    width: 50%;
+    height: 100px;
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
